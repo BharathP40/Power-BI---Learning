@@ -1,0 +1,8 @@
+https://www.microsoft.com/store/productid/9NTXR16HNW1T?ocid=pdpshare
+
+1.	The data should not have null values.
+2.	The column names that were present in the data should be shifted to the header row.
+3.	The email and phone number should be in separate columns.
+4.	The header rows should contain appropriate column names and not the default names.
+5.	The first and last names of the customers should be in separate columns.
+6.	There should be a year column and the data should be sorted by products.
